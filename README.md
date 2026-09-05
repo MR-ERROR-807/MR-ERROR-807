@@ -5,8 +5,11 @@
   <img height="25" src="https://img.shields.io/github/followers/MR-ERROR-807?color=4a12ba&style=for-the-badge&logo=github&label=Follow" alt="Followers"/>
   <img height="25" src="https://img.shields.io/github/stars/MR-ERROR-807?color=4a12ba&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
 </p><p align="center"> 
-  <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=MR-ERROR-807&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%">
-</p>package kittyy
+    <img src="https://github-readme-streak-stats-eta-three.vercel.app?user=MR-ERROR-807&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%">
+</p>
+
+```go
+package kittyy
 
 import "fmt"
 
@@ -46,7 +49,7 @@ func (Ethan) Coding() CodingProfile {
 		Languages: map[string][]string{
 			"pro":          {"Go", "Python"},
 			"intermediate": {"C++"},
-			"learning":    {"WebAssembly"},
+			"learning":     {"WebAssembly"},
 		},
 	}
 }
@@ -75,3 +78,4 @@ func main() {
 	fmt.Println("instagram:", s.Instagram)
 	fmt.Println("telegram:", s.Telegram)
 }
+```
